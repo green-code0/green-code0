@@ -1,4 +1,4 @@
-- 👋 <h1 style="color:green">hi</h1>
+- 👋 <h1 style="color:green;">hi</h1>
 - 🌱 I’m currently learnin php mysql
 
 <!---
