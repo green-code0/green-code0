@@ -1,5 +1,5 @@
-- 👋 <h1 style="color:green;">hi</h1>
-- 🌱 I’m currently learnin php mysql
+
+l
 
 <!---
 green-code0/green-code0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
