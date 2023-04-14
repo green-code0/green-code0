@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on > nothing !<br> 🌱 I'm currently learning > Laravel and Flutter !<br> 💬 do not Ask me about > anything, because you have chatgpt !<br>⚡ Fun fact > I like writing code even in paradise also !
+🔭 I’m currently working on > <b> Nothing </b> !<br> 🌱 I'm currently learning > <b> Laravel and Flutter </b> !<br> 💬 do not Ask me about > <b> Anything, because you have chatgpt </b> !<br>⚡ Fun fact >  <b> I like writing code even in paradise also ! </b>
 
 
 ## 🌐 Socials:
